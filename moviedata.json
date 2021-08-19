@@ -1,0 +1,504 @@
+{
+  "movie": [
+    {
+      "TypeNovie": "Drama|Fantasy",
+      "name_movie": "Man, Woman and Beast (L'uomo la donna e la bestia)",
+      "date": "4/14/2021"
+    },
+    {
+      "TypeNovie": "Horror",
+      "name_movie": "The Mummy's Shroud",
+      "date": "10/17/2020"
+    },
+    {
+      "TypeNovie": "Comedy|Drama",
+      "name_movie": "Moscow on the Hudson",
+      "date": "8/18/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "River Called Titas, A (Titash Ekti Nadir Naam)",
+      "date": "1/11/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Hara-Kiri: Death of a Samurai",
+      "date": "12/25/2020"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Disgrace",
+      "date": "1/17/2021"
+    },
+    {
+      "TypeNovie": "Documentary",
+      "name_movie": "TV Junkie",
+      "date": "7/19/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Crime|Drama|Romance",
+      "name_movie": "Band of Outsiders (Bande à part)",
+      "date": "8/9/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Crime|Drama",
+      "name_movie": "Jimmy Hollywood",
+      "date": "11/7/2020"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Full Body Massage",
+      "date": "9/16/2020"
+    },
+    {
+      "TypeNovie": "Action|Adventure|Fantasy|Sci-Fi",
+      "name_movie": "Krrish 3",
+      "date": "7/7/2021"
+    },
+    {
+      "TypeNovie": "Drama|War",
+      "name_movie": "Hamsun",
+      "date": "12/3/2020"
+    },
+    {
+      "TypeNovie": "Comedy",
+      "name_movie": "Sprung",
+      "date": "10/18/2020"
+    },
+    {
+      "TypeNovie": "Comedy|Drama",
+      "name_movie": "Road to Redemption",
+      "date": "1/28/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Drama|Romance",
+      "name_movie": "Dummy",
+      "date": "5/16/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Romance",
+      "name_movie": "New Year's Eve",
+      "date": "1/16/2021"
+    },
+    {
+      "TypeNovie": "Drama|Romance",
+      "name_movie": "Suzanne's Diary for Nicholas",
+      "date": "3/28/2021"
+    },
+    {
+      "TypeNovie": "Action|Crime",
+      "name_movie": "Street Mobster (a.k.a. Modern Yakuza: Outlaw Killer) (Gendai yakuza: hito-kiri yota)",
+      "date": "2/20/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Rabbit Hole",
+      "date": "5/28/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Bonhoeffer: Agent of Grace",
+      "date": "9/20/2020"
+    },
+    {
+      "TypeNovie": "Documentary",
+      "name_movie": "First Case, Second Case (Ghazieh-e Shekl-e Aval, Ghazieh-e Shekl-e Dou Wom)",
+      "date": "8/11/2021"
+    },
+    {
+      "TypeNovie": "Action|Sci-Fi",
+      "name_movie": "Princess Blade, The (Shura Yukihime)",
+      "date": "10/26/2020"
+    },
+    {
+      "TypeNovie": "Comedy",
+      "name_movie": "Bank Error in Your Favour (Erreur de la banque en votre faveur)",
+      "date": "8/11/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Amor?",
+      "date": "4/29/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Lovers, The (Les Amants)",
+      "date": "4/2/2021"
+    },
+    {
+      "TypeNovie": "Documentary",
+      "name_movie": "Legends of the Canyon",
+      "date": "6/1/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Angela's Ashes",
+      "date": "11/21/2020"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Face in the Crowd, A",
+      "date": "6/28/2021"
+    },
+    {
+      "TypeNovie": "Adventure|Animation|Children|Comedy|Fantasy|Musical",
+      "name_movie": "Chipmunk Adventure, The",
+      "date": "3/5/2021"
+    },
+    {
+      "TypeNovie": "Horror|Mystery|Thriller",
+      "name_movie": "301, 302 (301/302)",
+      "date": "5/4/2021"
+    },
+    {
+      "TypeNovie": "Comedy",
+      "name_movie": "Bridesmaids",
+      "date": "6/28/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Crime|Mystery|Thriller",
+      "name_movie": "Shadows Over Chinatown",
+      "date": "6/6/2021"
+    },
+    {
+      "TypeNovie": "Documentary",
+      "name_movie": "Bling: A Planet Rock",
+      "date": "9/26/2020"
+    },
+    {
+      "TypeNovie": "Horror",
+      "name_movie": "Epitaph",
+      "date": "6/20/2021"
+    },
+    {
+      "TypeNovie": "Crime|Drama|Horror|Thriller",
+      "name_movie": "Whisper",
+      "date": "8/16/2021"
+    },
+    {
+      "TypeNovie": "Comedy",
+      "name_movie": "Attack of the 50ft Cheerleader",
+      "date": "12/10/2020"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Little Birds",
+      "date": "2/23/2021"
+    },
+    {
+      "TypeNovie": "Horror|Thriller",
+      "name_movie": "American Mary",
+      "date": "2/3/2021"
+    },
+    {
+      "TypeNovie": "Action|Musical|Romance",
+      "name_movie": "Disco Dancer",
+      "date": "11/18/2020"
+    },
+    {
+      "TypeNovie": "Adventure|Documentary",
+      "name_movie": "Symphony of the Soil",
+      "date": "8/7/2021"
+    },
+    {
+      "TypeNovie": "Horror|Mystery|Thriller",
+      "name_movie": "Fear Island",
+      "date": "12/19/2020"
+    },
+    {
+      "TypeNovie": "Western",
+      "name_movie": "Buchanan Rides Alone",
+      "date": "8/17/2021"
+    },
+    {
+      "TypeNovie": "Comedy",
+      "name_movie": "Holidays by the Sea (Ni à vendre ni à louer)",
+      "date": "1/22/2021"
+    },
+    {
+      "TypeNovie": "Crime|Film-Noir",
+      "name_movie": "House of Bamboo",
+      "date": "6/8/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Hara-Kiri: Death of a Samurai",
+      "date": "4/6/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Screaming Man, A (Un homme qui crie)",
+      "date": "12/12/2020"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Through a Glass Darkly (Såsom i en spegel)",
+      "date": "10/18/2020"
+    },
+    {
+      "TypeNovie": "Comedy",
+      "name_movie": "Hebrew Hammer, The",
+      "date": "7/6/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Crime|Horror|Thriller",
+      "name_movie": "Otis",
+      "date": "4/10/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Romance",
+      "name_movie": "Win a Date with Tad Hamilton!",
+      "date": "4/12/2021"
+    },
+    {
+      "TypeNovie": "Western",
+      "name_movie": "El Dorado",
+      "date": "5/14/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Drama|Romance",
+      "name_movie": "Elusive Summer of '68, The (Varljivo leto '68)",
+      "date": "3/11/2021"
+    },
+    {
+      "TypeNovie": "Animation|Children|Comedy|Crime",
+      "name_movie": "Wallace & Gromit: The Wrong Trousers",
+      "date": "8/8/2021"
+    },
+    {
+      "TypeNovie": "Drama|Thriller",
+      "name_movie": "Tailor of Panama, The",
+      "date": "3/14/2021"
+    },
+    {
+      "TypeNovie": "Comedy",
+      "name_movie": "Secret Ballot (Raye makhfi)",
+      "date": "4/3/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Drama|Musical|Romance",
+      "name_movie": "Romance & Cigarettes",
+      "date": "9/29/2020"
+    },
+    {
+      "TypeNovie": "Comedy|Drama",
+      "name_movie": "Alex in Wonderland",
+      "date": "9/2/2020"
+    },
+    {
+      "TypeNovie": "Children|Comedy",
+      "name_movie": "Little Rascals, The",
+      "date": "6/30/2021"
+    },
+    {
+      "TypeNovie": "Drama|Fantasy|Horror|Romance|Thriller",
+      "name_movie": "Twilight Saga: New Moon, The",
+      "date": "1/16/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Drama|Romance",
+      "name_movie": "Wedding Photographer, The (Bröllopsfotografen)",
+      "date": "7/13/2021"
+    },
+    {
+      "TypeNovie": "Drama|Romance|War",
+      "name_movie": "Year of Living Dangerously, The",
+      "date": "11/10/2020"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Cremaster 2",
+      "date": "2/28/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "I'll Cry Tomorrow",
+      "date": "4/19/2021"
+    },
+    {
+      "TypeNovie": "Western",
+      "name_movie": "Aces and Eights",
+      "date": "4/28/2021"
+    },
+    {
+      "TypeNovie": "Horror",
+      "name_movie": "Night Flier",
+      "date": "3/20/2021"
+    },
+    {
+      "TypeNovie": "Animation|Comedy|Sci-Fi",
+      "name_movie": "Lifted",
+      "date": "1/7/2021"
+    },
+    {
+      "TypeNovie": "Comedy",
+      "name_movie": "Familia",
+      "date": "1/8/2021"
+    },
+    {
+      "TypeNovie": "Drama|War",
+      "name_movie": "Sergeant York",
+      "date": "7/31/2021"
+    },
+    {
+      "TypeNovie": "Drama|Mystery|Romance",
+      "name_movie": "Red White & Blue",
+      "date": "10/11/2020"
+    },
+    {
+      "TypeNovie": "Horror",
+      "name_movie": "Manitou, The",
+      "date": "1/10/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Horror",
+      "name_movie": "Nekromantik",
+      "date": "3/17/2021"
+    },
+    {
+      "TypeNovie": "Crime|Drama",
+      "name_movie": "Angels with Dirty Faces",
+      "date": "6/9/2021"
+    },
+    {
+      "TypeNovie": "Documentary",
+      "name_movie": "Grin Without a Cat, A (Fond de l'air est rouge, Le)",
+      "date": "8/16/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Fantasy",
+      "name_movie": "Young Frankenstein",
+      "date": "4/1/2021"
+    },
+    {
+      "TypeNovie": "Crime|Drama|Thriller",
+      "name_movie": "Counselor, The",
+      "date": "3/10/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Door in the Floor, The",
+      "date": "9/2/2020"
+    },
+    {
+      "TypeNovie": "Adventure|Drama|Western",
+      "name_movie": "Ride the High Country",
+      "date": "11/30/2020"
+    },
+    {
+      "TypeNovie": "Comedy|Crime",
+      "name_movie": "J. Gang Meets Dynamite Harry, The (Jönssonligan & DynamitHarry)",
+      "date": "11/9/2020"
+    },
+    {
+      "TypeNovie": "Action|Drama|Fantasy|Horror",
+      "name_movie": "Onmyoji (Onmyoji: The Yin Yang Master)",
+      "date": "9/30/2020"
+    },
+    {
+      "TypeNovie": "Comedy|Drama",
+      "name_movie": "Merchant of Venice, The",
+      "date": "7/5/2021"
+    },
+    {
+      "TypeNovie": "Drama|Romance",
+      "name_movie": "Way You Wanted Me, The (Sellaisena kuin sinä minut halusit)",
+      "date": "4/20/2021"
+    },
+    {
+      "TypeNovie": "Horror",
+      "name_movie": "Incubus",
+      "date": "6/15/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Drama|Romance|Thriller",
+      "name_movie": "Waxworks (Das Wachsfigurenkabinett)",
+      "date": "5/8/2021"
+    },
+    {
+      "TypeNovie": "Animation|Children",
+      "name_movie": "Bartok the Magnificent",
+      "date": "4/1/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Drama",
+      "name_movie": "Warm Water Under a Red Bridge (Akai hashi no shita no nurui mizu)",
+      "date": "6/23/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Entre nos (Between Us)",
+      "date": "4/1/2021"
+    },
+    {
+      "TypeNovie": "Drama|Horror|Thriller",
+      "name_movie": "Epidemic",
+      "date": "1/13/2021"
+    },
+    {
+      "TypeNovie": "Drama|Mystery|Thriller",
+      "name_movie": "Stoker",
+      "date": "5/3/2021"
+    },
+    {
+      "TypeNovie": "Children|Drama",
+      "name_movie": "Flicka",
+      "date": "11/18/2020"
+    },
+    {
+      "TypeNovie": "Action",
+      "name_movie": "Breathing Fire",
+      "date": "7/5/2021"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Lost City, The",
+      "date": "3/25/2021"
+    },
+    {
+      "TypeNovie": "Children|Comedy|Musical",
+      "name_movie": "Captain January",
+      "date": "12/9/2020"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Ragtime",
+      "date": "2/20/2021"
+    },
+    {
+      "TypeNovie": "Crime|Drama|Horror|Mystery|Thriller",
+      "name_movie": "Horsemen",
+      "date": "9/20/2020"
+    },
+    {
+      "TypeNovie": "Documentary",
+      "name_movie": "Man for a Day",
+      "date": "8/24/2020"
+    },
+    {
+      "TypeNovie": "Action|Mystery|Sci-Fi|Thriller",
+      "name_movie": "Cloverfield",
+      "date": "12/15/2020"
+    },
+    {
+      "TypeNovie": "Drama|Romance",
+      "name_movie": "Letter from an Unknown Woman",
+      "date": "2/20/2021"
+    },
+    {
+      "TypeNovie": "Comedy",
+      "name_movie": "Wag the Dog",
+      "date": "9/8/2020"
+    },
+    {
+      "TypeNovie": "Drama",
+      "name_movie": "Stockholm East (Stockholm Östra)",
+      "date": "1/5/2021"
+    },
+    {
+      "TypeNovie": "Comedy|Drama|Romance",
+      "name_movie": "Falling Up",
+      "date": "3/18/2021"
+    }
+  ]
+}
